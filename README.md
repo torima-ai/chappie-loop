@@ -1,5 +1,7 @@
 Chappie Loop
 
+Talk to Chappie. Codex maintains the repository. The next time you talk, the context is already better.
+
 “Chappie, share this with Codex.”
 
 Chappie Loop starts from that simple request.
